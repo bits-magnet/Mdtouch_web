@@ -11,18 +11,17 @@ ML in disease search and prediction based on symptoms.
  To create a virtual env:
  	virtualenv venv 
  - Activate venv
-Active your virtual environment:
- > source venv/bin/activate
- Using fish shell:
- > source venv/bin/activate.fish
- To deactivate:
- > deactivate
+ 	> source venv/bin/activate
+ - Using fish shell:
+ 	> source venv/bin/activate.fish
+ - To deactivate:
+ 	> deactivate
 
 ## install dependencies-
-goto project root directory and use the command-
-pip install -r requirements.txt
-or
-pip3 install -r requirements.txt
+goto project root directory and use the command -
+	> pip install -r requirements.txt
+- or
+	> pip3 install -r requirements.txt
 
 ## Run project-
 from the root directory use commands:
