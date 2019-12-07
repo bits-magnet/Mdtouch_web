@@ -34,8 +34,11 @@ from the root directory use commands:
 
 ## To create administrator account in mdtouchs website:- 
 use command:- 
-python manage.py createsuperuser
+
+	> python manage.py createsuperuser
+
 Then enter the username, email and password.
+
 Now you can log in to it from the < websitelink >/admin. Eg: Mdtouchs.herokuapp.com/admin
 
 ## To see the complete project working-
