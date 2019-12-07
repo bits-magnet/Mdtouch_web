@@ -25,10 +25,12 @@ goto project root directory and use the command -
 
 ## Run project-
 from the root directory use commands:
-To consider changes in DB : python manage.py makemigrations
-To commit changes in DB : python manage.py migrate
 
-To run server - python manage.py runserver
+	> To consider changes in DB : python manage.py makemigrations
+
+	> To commit changes in DB : python manage.py migrate
+
+	> To run server - python manage.py runserver
 
 ## To create administrator account in mdtouchs website:- 
 use command:- 
